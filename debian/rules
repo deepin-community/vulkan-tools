@@ -14,9 +14,6 @@ override_dh_auto_configure:
 override_dh_auto_install:
 	dh_auto_install --destdir=debian/tmp
 
-override_dh_missing:
-	dh_missing --fail-missing
-
 override_dh_clean:
 	dh_clean
 	rm -rf scripts/__pycache__
