@@ -9,10 +9,10 @@ Files-Excluded:
 
 Files: *
 Copyright: 2015-2016 Valve Corporation
-	   2015-2016 Google, Inc
-	   2015-2016 The Khronos Group Inc
-	   2005-2014 G-Truc Creation
-	   2015-2016 LunarG, Inc
+           2015-2016 Google, Inc
+           2015-2016 The Khronos Group Inc
+           2005-2014 G-Truc Creation
+           2015-2016 LunarG, Inc
 License: Apache-2.0
 
 Files: scripts/generate_vulkan_wrapper.py
